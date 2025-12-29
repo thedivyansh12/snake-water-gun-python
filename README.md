@@ -27,4 +27,4 @@ The project was created while learning **Python basics**, focusing on logic buil
 
 1. Make sure Python is installed:
 ```bash
-python --version
+python 3.13.9
